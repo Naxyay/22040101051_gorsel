@@ -1,0 +1,4 @@
+**KullanıcıAdı**        **Şifre**
+
+admin                    123
+personel                 123
