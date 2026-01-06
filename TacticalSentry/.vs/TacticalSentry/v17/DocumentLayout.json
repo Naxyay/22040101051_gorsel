@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|c:\\users\\ayyna\\desktop\\yeni klas\u00F6r\\tacticalsentry\\tacticalsentry\\tacticalsentry\\tacticalsentry\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|solutionrelative:tacticalsentry\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|c:\\users\\ayyna\\desktop\\yeni klas\u00F6r\\tacticalsentry\\tacticalsentry\\tacticalsentry\\tacticalsentry\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|solutionrelative:tacticalsentry\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|c:\\users\\ayyna\\desktop\\yeni klas\u00F6r\\tacticalsentry\\tacticalsentry\\tacticalsentry\\tacticalsentry\\presentation\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|solutionrelative:tacticalsentry\\presentation\\views\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|c:\\users\\ayyna\\desktop\\yeni klas\u00F6r\\tacticalsentry\\tacticalsentry\\tacticalsentry\\tacticalsentry\\presentation\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|solutionrelative:tacticalsentry\\presentation\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|c:\\users\\ayyna\\desktop\\yeni klas\u00F6r\\tacticalsentry\\tacticalsentry\\tacticalsentry\\tacticalsentry\\presentation\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|solutionrelative:tacticalsentry\\presentation\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|c:\\users\\ayyna\\desktop\\yeni klas\u00F6r\\tacticalsentry\\tacticalsentry\\tacticalsentry\\tacticalsentry\\presentation\\views\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{FB12A1B5-29BA-4565-AA6D-126A29D6A460}|TacticalSentry\\TacticalSentry.csproj|solutionrelative:tacticalsentry\\presentation\\views\\loginwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TacticalSentry\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\App.xaml.cs",
+              "RelativeToolTip": "TacticalSentry\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:39:35.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\App.xaml",
+              "RelativeDocumentMoniker": "TacticalSentry\\App.xaml",
+              "ToolTip": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\App.xaml",
+              "RelativeToolTip": "TacticalSentry\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T23:39:25.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "TacticalSentry\\Presentation\\Views\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\SettingsWindow.xaml",
+              "RelativeToolTip": "TacticalSentry\\Presentation\\Views\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T23:39:15.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TacticalSentry\\Presentation\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "TacticalSentry\\Presentation\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T23:38:48.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TacticalSentry\\Presentation\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "TacticalSentry\\Presentation\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:38:36.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "TacticalSentry\\Presentation\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\ayyna\\Desktop\\Yeni klas\u00F6r\\TacticalSentry\\TacticalSentry\\TacticalSentry\\TacticalSentry\\Presentation\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "TacticalSentry\\Presentation\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-18T23:38:26.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
